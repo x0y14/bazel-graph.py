@@ -7,6 +7,9 @@ import tempfile
 """
 [Usage]
 python3 {thisfile}.py //main:hello-world
+
+[これの中の長いコマンドを短くしたやつ]
+https://docs.bazel.build/versions/0.24.0/tutorial/cpp.html
 """
 def main():
 	args = sys.argv
